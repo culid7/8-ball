@@ -1,0 +1,13 @@
+html {
+  background: color(black);
+}
+
+body {
+  background-color: white;
+  border-radius: 15px;
+  width: 600px;
+  margin: 25px auto;
+  padding: 25px 150px 50px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  opacity: 0.85;
+}
